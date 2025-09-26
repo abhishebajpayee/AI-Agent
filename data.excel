@@ -1,0 +1,7 @@
+Date	Region	Product	Revenue	Units
+2023-01-01	East	A	100	10
+2023-01-01	West	B	150	15
+2023-01-02	East	A	120	12
+2023-01-02	West	C	200	20
+2023-01-03	West	B	180	18
+2023-01-03	East	A	90	9
